@@ -1,0 +1,80 @@
+{
+  "chargingpoints": [
+    {
+      "_links": {
+        "self": {
+          "href": "https://api.data.amsterdam.nl/vsd/oplaadpunten/1/",
+          "title": "Allego - Loevesteinse Randweg 200"
+        }
+      },
+      "_display": "Allego - Loevesteinse Randweg 200",
+      "id": 1,
+      "cs_external_id": "NLALLEGO001520",
+      "wkb_geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.32123710410971,
+          4.792726605879229
+        ]
+      },
+      "street": "Loevesteinse Randweg",
+      "housenumber": 200,
+      "housnumberext": null,
+      "postalcode": "1118EL",
+      "district": null,
+      "countryiso": "NLD",
+      "region": null,
+      "city": "Schiphol",
+      "provider": "Allego",
+      "restrictionsremark": null,
+      "charging_point": 3,
+      "status": "Available",
+      "connector_type": "IEC_62196_T2_COMBO;CHADEMO;IEC_62196_T2",
+      "vehicle_type": "",
+      "charging_capability": "50.0;43.0",
+      "identification_type": "CCS;CHADEMO;TYPE_2",
+      "last_update": "2022-05-19T16:25:17.905093Z",
+      "last_status_update": "2022-06-22T12:54:12.200250Z",
+      "charging_cap_max": 50,
+      "name": "Allego - Loevesteinse Randweg 200"
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "https://api.data.amsterdam.nl/vsd/oplaadpunten/2/",
+          "title": "Allego - Strawinskylaan 2"
+        }
+      },
+      "_display": "Allego - Strawinskylaan 2",
+      "id": 2,
+      "cs_external_id": "NLALLEGO006003",
+      "wkb_geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.34103410400184,
+          4.875242609846794
+        ]
+      },
+      "street": "Strawinskylaan",
+      "housenumber": 2,
+      "housnumberext": null,
+      "postalcode": "1077XW",
+      "district": null,
+      "countryiso": "NLD",
+      "region": null,
+      "city": "Amsterdam",
+      "provider": "Allego",
+      "restrictionsremark": null,
+      "charging_point": 3,
+      "status": "Available",
+      "connector_type": "CHADEMO;IEC_62196_T2_COMBO;IEC_62196_T2",
+      "vehicle_type": "",
+      "charging_capability": "50.0;43.0",
+      "identification_type": "CHADEMO;CCS;TYPE_2",
+      "last_update": "2022-05-19T18:25:11.150314Z",
+      "last_status_update": "2022-06-22T12:54:12.200250Z",
+      "charging_cap_max": 50,
+      "name": "Allego - Strawinskylaan 2"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+<https://data.utwente.nl/utwente/amsterdam-kkg/id/chargingstation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Place> .
+<https://data.utwente.nl/utwente/amsterdam-kkg/id/chargingstation/1> <https://schema.org/address> "Loevesteinse Randweg 200" .
+<https://data.utwente.nl/utwente/amsterdam-kkg/id/chargingstation/1> <http://www.opengis.net/ont/geosparql#hasGeometry> <https://data.utwente.nl/utwente/amsterdam-kkg/id/geometry/84163ba67dddccdd6617c36b969dbb3c> .
+<https://data.utwente.nl/utwente/amsterdam-kkg/id/geometry/84163ba67dddccdd6617c36b969dbb3c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<https://data.utwente.nl/utwente/amsterdam-kkg/id/geometry/84163ba67dddccdd6617c36b969dbb3c> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(52.32123710410971 4.792726605879229)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<https://data.utwente.nl/utwente/amsterdam-kkg/id/chargingstation/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Place> .
+<https://data.utwente.nl/utwente/amsterdam-kkg/id/chargingstation/2> <https://schema.org/address> "Strawinskylaan 2" .
+<https://data.utwente.nl/utwente/amsterdam-kkg/id/chargingstation/2> <http://www.opengis.net/ont/geosparql#hasGeometry> <https://data.utwente.nl/utwente/amsterdam-kkg/id/geometry/b1ec6e135d3232a5886ee886e20f265c> .
+<https://data.utwente.nl/utwente/amsterdam-kkg/id/geometry/b1ec6e135d3232a5886ee886e20f265c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<https://data.utwente.nl/utwente/amsterdam-kkg/id/geometry/b1ec6e135d3232a5886ee886e20f265c> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(52.34103410400184 4.875242609846794)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
